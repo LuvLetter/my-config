@@ -87,3 +87,4 @@ alias py3.="python3"
 alias py2.="python2"
 export PATH=/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/usr/local/MacGPG2/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/opt/android-sdk/tools:/usr/local/opt/android-sdk/platform-tools
 alias cc0="/usr/bin/cc0"
+alias coin="/Users/luvletter/sysutil/cc0/bin/coin"
